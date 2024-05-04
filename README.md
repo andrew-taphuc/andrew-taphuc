@@ -68,7 +68,7 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <a href="https://github.com/Adityakanoi2001">
+  <a href="https://github.com/andrew-taphuc">
     <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=andrew-taphuc&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   </a>
    <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=white&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45.45%">
