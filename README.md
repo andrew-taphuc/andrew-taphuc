@@ -8,7 +8,7 @@
 ### 👨🏻‍💻 &nbsp;About Me
 
 <!-- 👨‍💻 &nbsp;I am currently majoring in Information Technology at Hanoi University of Science & Technology, Viet Nam.\ -->
-🎓 &nbsp;I'm currently studying Computer Science and Information Technology at Hanoi University of Science & Technology, Viet Nam.
+🎓 &nbsp;I'm currently studying CS and IT at Hanoi University of Science & Technology, Viet Nam.
 
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
 
