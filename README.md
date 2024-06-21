@@ -88,21 +88,26 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=dark&hide_border=true"/>
 </p> -->
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=white&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45.45%">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=white&hide_border=false" alt="GitHub Streak Stats" width="50%">
+</p> -->
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc" alt="GitHub Stats" width="50%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=white&hide_border=false" alt="GitHub Streak Stats" width="45.45%">
 </p>
 
 <!-- ![Andrew's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=andrew-taphuc) -->
 <!-- ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-taphuc&show_icons=true&theme=transparent) -->
 
-<p href="https://github.com/anuraghazra/github-readme-stats">
+<!-- <p href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc" alt="GitHub Stats"width="45.45%"/>
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=white&hide_border=false"alt="GitHub Streak Stats" width="50%"/>
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
   
-</a>
+</a> -->
 
 <!-- ### 🎖 &nbsp;My Badges 
 
