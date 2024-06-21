@@ -94,8 +94,8 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=tokyonight" alt="GitHub Stats" width="45.45%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=white&hide_border=false&theme=dark" alt="GitHub Streak Stats" width="50%">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=transparent" alt="GitHub Stats" width="45.45%">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=white&hide_border=false" alt="GitHub Streak Stats" width="50%">
 </p>
 
 <!-- ![Andrew's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=andrew-taphuc) -->
