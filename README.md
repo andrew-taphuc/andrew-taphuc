@@ -95,7 +95,7 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=transparent&border_radius=10&hide_border=true" alt="GitHub Stats" width="45.45%">
-  <img src="https://streak-stats.demolab.com?user=andrew-taphuc&theme=transparent&date_format=%5BY%20%5DM%20j&border_radius=10&hide_border=false" alt="GitHub Streak Stats" width="50%">
+  <img src="https://streak-stats.demolab.com?user=andrew-taphuc&theme=transparent&date_format=%5BY%20%5DM%20j&border_radius=10&hide_border=true" alt="GitHub Streak Stats" width="50%">
 </p>
 
 <!-- ![Andrew's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=andrew-taphuc) -->
