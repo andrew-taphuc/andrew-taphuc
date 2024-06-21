@@ -10,14 +10,14 @@
 <!-- 👨‍💻 &nbsp;I am currently majoring in Information Technology at Hanoi University of Science & Technology, Viet Nam.\ -->
 🎓 &nbsp;I'm currently studying CS and IT at Hanoi University of Science & Technology (HUST), Viet Nam.
 
-💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.
+<!-- 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks. -->
 
 🌱 &nbsp;I'm on track for learning more about Progressive App Web (PWA) and Machine Learning.
 
 ✍️ &nbsp;In my free time, I pursue Street Photography as hobbies/side hustles.
 <!-- 💬 &nbsp;Feel free to reach out to me for pro bono consulting and volunteering, or just for some interesting discussion.\ -->
 
-✉️ &nbsp;You can shoot me an email at taphuc1@gmail.com! I'll try to respond as soon as posible! .
+<!-- ✉️ &nbsp;You can shoot me an email at taphuc1@gmail.com! I'll try to respond as soon as posible! . -->
 <!-- 📄 &nbsp;Please have a look at my [Résumé](https://onedrive.live.com/?authkey=%21AKntgUe4LOwU4xA&id=2C11D5C642133C04%213605&cid=2C11D5C642133C04&parId=root&parQt=sharedby&o=OneUp) for more details about me. I'm open to feedback and suggestions! -->
 
 
@@ -123,14 +123,14 @@
 [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/adityakanoi)  -->
 
 ### 🐍 &nbsp;That's How Commits move ..
-![Snake animation](https://raw.githubusercontent.com/andrew-taphuc/andrew-taphuc/main/snake.svg)&nbsp;
+<!-- ![Snake animation](https://raw.githubusercontent.com/andrew-taphuc/andrew-taphuc/main/snake.svg)&nbsp;
 
 <div align="center">
   <a href="https://github.com/andrew-taphuc/">
   <img src="https://github.com/andrew-taphuc/andrew-taphuc/dist/github-contribution-grid-snake.svg"
        alt="snake" />
        </a>
-</div>
+</div> -->
 
 
 ### 🤝🏻 &nbsp;Connect with Me
@@ -138,7 +138,7 @@
 <p align="center">
 <!-- <a href="adityakanoi2001.wordpress.com"><img src="https://img.shields.io/badge/-adityakanoi.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a> -->
 <a href="https://www.linkedin.com/in/h%E1%BB%93ng-ph%C3%BAc-t%E1%BA%A1-533545208/"><img src="https://img.shields.io/badge/-Hong%20Phuc%20Ta-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:taphuc1l@gmail.com"><img src="https://img.shields.io/badge/-Hong%20Phuc%20Ta-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="mailto:taphuc1l@gmail.com"><img src="https://img.shields.io/badge/-taphuc1-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/andrew.thp/"><img src="https://img.shields.io/badge/-andrew.thp-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 <a href="https://www.facebook.com/phuc24092004"><img src="https://img.shields.io/badge/-Hong%20Phuc%20Ta-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
