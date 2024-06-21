@@ -1,0 +1,22 @@
+<svg width="100%" height="100%" viewBox="0 0 1000 300" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .text-path {
+      fill: none;
+      stroke: #FF9800; /* Orange color */
+      stroke-width: 5;
+      stroke-dasharray: 800; /* Adjust this value to control the length of the dashed line */
+      stroke-dashoffset: 800;
+      animation: draw 5s linear forwards;
+    }
+
+    @keyframes draw {
+      to {
+        stroke-dashoffset: 0;
+      }
+    }
+  </style>
+  <path id="text-path" class="text-path" d="M 10,150 L 110,150 M 130,150 L 230,150 M 250,150 L 350,150 M 370,150 L 470,150 M 490,150 L 590,150 M 610,150 L 710,150" />
+  <text x="10" y="150" font-size="100" font-family="Arial" fill="none" stroke="#000">
+    <textPath href="#text-path">ANDREW</textPath>
+  </text>
+</svg>
