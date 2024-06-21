@@ -97,7 +97,7 @@
 <!-- ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-taphuc&show_icons=true&theme=transparent) -->
 
 <p href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc" alt="GitHub Stats"width="50%"/>
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc" alt="GitHub Stats"width="45.45%"/>
   <img height=200 align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=white&hide_border=false"alt="GitHub Streak Stats" width="50%"/>
 </p>
 <a href="https://github.com/anuraghazra/convoychat">
