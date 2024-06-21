@@ -94,7 +94,7 @@
 </p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=tokyonight" alt="GitHub Stats" width="45.45%">
+  <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=transparent" alt="GitHub Stats" width="45.45%">
   <img src="https://streak-stats.demolab.com?user=andrew-taphuc&theme=transparent&date_format=%5BY%20%5DM%20j" alt="GitHub Streak Stats" width="50%">
 </p>
 
