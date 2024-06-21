@@ -2,7 +2,7 @@
 
 <!-- <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/> -->
 <!-- <h2 align="left">Hey there! I'm Andrew Ta from HUST, Vietnam! </h2> -->
-<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9800&random=true&width=435&lines=Hi+there%2C+I'm+Andrew+Coder+from+HUST" alt="Typing SVG" /></h2>
+<h2 href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF9800&random=false&width=435&lines=Hi+there%2C+I'm+Andrew+from+HUST,+HANOI!" alt="Typing SVG" /></h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Andrew Ta -->
 
 ### 👨🏻‍💻 &nbsp;About Me
