@@ -93,7 +93,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=andrew-taphuc&theme=white&hide_border=false" alt="GitHub Streak Stats" width="50%">
 </p>
 
-![Andrew's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=andrew-taphuc)
+<!-- ![Andrew's GitHub Repository Contribution stats](https://github-contributor-stats.vercel.app/api?username=andrew-taphuc) -->
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=andrew-taphuc&show_icons=true&theme=transparent)
+
 <!-- ### 🎖 &nbsp;My Badges 
 
 [![An image of @adityakanoi's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/adityakanoi)](https://holopin.io/@adityakanoi) -->
