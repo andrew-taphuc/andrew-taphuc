@@ -17,7 +17,9 @@
 ✍️ &nbsp;In my free time, I pursue Street Photography as hobbies/side hustles.
 
 
-<img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" width="450" height="auto"/>
+<img alt="Night Coding" src="https://media.giphy.com/media/0lGd2OXXHe4tFhb7Wh/giphy.gif" align="right" width="380" height="auto"/>
+
+<!-- img alt="Night Coding" src="https://user-images.githubusercontent.com/74038190/212748830-4c709398-a386-4761-84d7-9e10b98fbe6e.gif" align="right" width="450" height="auto"/ -->
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,8 +51,9 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&border_radius=10&hide_border=true" alt="GitHub Stats" width="45.5%">
-  <img src="https://streak-stats.demolab.com?user=andrew-taphuc&theme=transparent&date_format=%5BY%20%5DM%20j&border_radius=10&hide_border=true" alt="GitHub Streak Stats" width="50%">
+    <img src="https://streak-stats.demolab.com?user=andrew-taphuc&theme=microsoft&date_format=%5BY%20%5DM%20j&border_radius=10&hide_border=false" alt="GitHub Streak Stats" width="60%">
+
+  <!-- img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&border_radius=10&hide_border=true" alt="GitHub Stats" width="45.5%" -->
 </p>
 
 ### 🐍 &nbsp;That's How Commits move ..
