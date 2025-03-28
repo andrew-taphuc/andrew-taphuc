@@ -51,8 +51,8 @@
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=andrew-taphuc&theme=microsoft&date_format=%5BY%20%5DM%20j&border_radius=10&hide_border=false" alt="GitHub Streak Stats" width="60%">
-
+    <img src="https://streak-stats.demolab.com?user=andrew-taphuc&theme=microsoft&date_format=%5BY%20%5DM%20j&border_radius=10&hide_border=false" alt="GitHub Streak Stats" width="49.5%">
+    <img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&theme=white&hide_border=false&border_radius=10&include_all_commits=false&count_private=false" alt="GitHub Stats" width="45.5%">
   <!-- img src="https://github-readme-stats.vercel.app/api?username=andrew-taphuc&border_radius=10&hide_border=true" alt="GitHub Stats" width="45.5%" -->
 </p>
 
